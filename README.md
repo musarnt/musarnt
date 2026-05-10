@@ -39,7 +39,7 @@ Collaborative project with a focus on clean geometry engine architecture.
 
 | Project | Description | Stack |
 |---|---|---|
-| [GeoWeb](https://github.com/musarnt/geoweb) | Interactive browser-based geometry tool | JS, JSXGraph, TailwindCSS |
+| [GeoWeb](https://github.com/MrmoonSOS/GeoWeb) | Interactive browser-based geometry tool | JS, JSXGraph, TailwindCSS |
 | [User Stories](https://github.com/musarnt/user-stories) | Weekly backend challenges at Riwi | Java, Spring Boot |
 | [DronHunter](https://github.com/musarnt/dronhunter) | Grid-based console game | Java 17+ |
 
