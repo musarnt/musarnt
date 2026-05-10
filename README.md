@@ -45,16 +45,6 @@ Collaborative project with a focus on clean geometry engine architecture.
 
 ---
 
-## Stats
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=musarnt&show_icons=true&theme=default&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=musarnt&layout=compact&theme=default&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 <sub>Medellín · 2026</sub>
