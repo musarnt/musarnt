@@ -38,6 +38,7 @@ Collaborative project with a focus on clean geometry engine architecture.
 
 | Project | Description | Stack |
 |---|---|---|
+| [HotelNova](https://github.com/musarnt/HotelNova) | Administrative management system for a hotel chain — rooms, guests, reservations, and JDBC transactions | Java 21, JavaFX, PostgreSQL, Supabase |
 | [GeoWeb](https://github.com/MrmoonSOS/GeoWeb) | Interactive browser-based geometry tool | JS, JSXGraph, TailwindCSS |
 | [User Stories](https://github.com/musarnt/user-stories) | Weekly backend challenges at Riwi | Java, Spring Boot |
 | [DronHunter](https://github.com/musarnt/dronhunter) | Grid-based console game | Java 17+ |
